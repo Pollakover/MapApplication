@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "559235499550",
+    "firebase_url": "https://mapapplication-4707a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mapapplication-4707a",
+    "storage_bucket": "mapapplication-4707a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559235499550:android:5ffa163df78f34c5cf100f",
+        "android_client_info": {
+          "package_name": "com.example.mapapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tDiiBgLPn4zmmGD-qLBYt2s5Bv5fnu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

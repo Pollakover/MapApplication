@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Map Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AddMarkerOnMapTitle">Добавление маркера на карту</string>
+    <string name="AddMarkerOnMapTitleHint">Название</string>
+    <string name="AddMarkerOnMapMessageHint">Текст сообщения</string>
+    <string name="AddMarkerOnMapYourNameHint">Ваше имя</string>
+    <string name="AddMarkerOnMapImageHint">Прикреплённое изображение:</string>
+    <string name="AttachImageButtonDescription">Прикрепить изображение</string>
+    <string name="DoneButtonText">Готово</string>
+    <string name="CancelButtonText">Отмена</string>
+    <string name="MarkerWindowTitle">Название</string>
+    <string name="MarkerWindowDescription">Описание.</string>
+    <string name="MainPageAddMarkerButtonDescription">Добавить новый маркер</string>
+</resources>
